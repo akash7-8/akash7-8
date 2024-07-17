@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akash7-8
-- 👀 I’m interested in Ai
-- 🌱 I’m currently learning C Programming 
+- 👀 I’m interested in Ai 
+- 🌱 I’m currently learning Python and Front-end programming languages
 - 📫 akashthiyagarajan708@gmail.com
 
 <!---
