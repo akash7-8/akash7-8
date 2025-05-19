@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akash7-8
-- 👀 I’m interested in Ai 
+- 👀 I’m interested in Ai and Data science
 - 🌱 I’m currently learning Python and Front-end programming languages
-- 📫 akashthiyagarajan708@gmail.com
+- 📫 akashthiyagarajan@outlook.com
 
 <!---
 akash7-8/akash7-8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
